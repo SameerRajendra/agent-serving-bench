@@ -1,0 +1,7 @@
+[grid] vllm-suffix accord-stage_first structured=True prime=False concurrency=1
+[grid] vllm-suffix accord-stage_first structured=True prime=False concurrency=8
+[grid] vllm-suffix accord-shared_first structured=True prime=False concurrency=1
+[grid] vllm-suffix accord-shared_first structured=True prime=False concurrency=8
+[grid] vllm-suffix deltafin structured=True prime=False concurrency=1
+[grid] vllm-suffix deltafin structured=True prime=False concurrency=8
+[grid] wrote /mnt/d/Stevens Institute of Technology/agent-serving-bench/results/rtx4060/vllm-suffix.json

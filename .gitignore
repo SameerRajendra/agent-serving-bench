@@ -1,0 +1,5 @@
+__pycache__/
+_DELETE_ME_*/
+traces/*.log
+results/*/vllm-*.log
+results/*/sglang-*.log

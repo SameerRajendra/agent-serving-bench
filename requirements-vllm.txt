@@ -1,0 +1,3 @@
+vllm
+arctic-inference  # the `suffix` speculative method
+httpx
